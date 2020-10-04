@@ -1,0 +1,200 @@
+The Beatles	Sgt. Pepper's Lonely Hearts Club Band	ChromaticTriMirror	1967
+The Beach Boys	Pet Sounds	DoReMi	1966
+Bob Dylan	Revolver	Flat6and7	1966
+Marvin Gaye	Highway 61 Revisited	MajorFlat6	1965
+The Rolling Stones	Rubber Soul	MajorTriad1	1965
+The Clash	What's Going On	MajorTriad2	1971
+Elvis Presley	Exile on Main St.	MajorTriad3	1972
+Miles Davis	London Calling	Messiaen3rdMode	1979
+The Velvet Underground	Blonde on Blonde	MinorTriad1	1966
+The Jimi Hendrix Experience	The Beatles 	MinorTriad2	1968
+Nirvana	The Sun Sessions	MinorTriad3	1976
+Bruce Springsteen	Kind of Blue	MinorTriChord	1959
+Van Morrison	The Velvet Underground & Nico	PhrygianTriChord	1967
+Michael Jackson	Abbey Road	Sanagari1	1969
+Chuck Berry	Are You Experienced	Sharp6and7	1967
+Robert Johnson	Blood on the Tracks	UteTritone1	1975
+John Lennon / Plastic Ono Band	Nevermind	AlternatingTetraMirror1	1991
+Stevie Wonder	Born to Run	ChromaticTetraMirror1	1975
+James Brown	Astral Weeks	Diminished7thChord	1968
+Fleetwood Mac	Thriller	DorianTetraChord	1982
+U2	The Great Twenty_Eight	EskimoTetratonic	1982
+The Who	The Complete Recordings	GenusPrimumInverse	1990
+Led Zeppelin	John Lennon/Plastic Ono Band	HarMinorTetraChord1	1970
+Joni Mitchell	Innervisions	MajorTetraChord1	1973
+Ramones	Live at the Apollo	MajorTetraChord2	1963
+The Band	Rumours	MajorTetraChord2	1977
+David Bowie	The Joshua Tree	MajorTetraChord3	1987
+Carole King	Who's Next	MajorTetraChord4	1971
+Eagles	Led Zeppelin	MajorTetraChord5	1969
+Muddy Waters	Blue	MajorTetraChord6	1971
+Love	Bringing It All Back Home	MajorTetraChord7	1965
+Sex Pistols	Let It Bleed	MajorTetraChord8	1969
+The Doors	Ramones	MajorTetraChord9	1976
+Pink Floyd	Music From Big Pink	MajorTetraChord10	1968
+Patti Smith	The Rise and Fall of Ziggy 	MajorTetraChord11	1972
+Bob Marley & The Wailers	Tapestry	SixthTetraChord1	1971
+John Coltrane	Hotel California	SixthTetraChord2	1976
+Public Enemy	The Anthology	SixthTetraChord3	2001
+The Allman Brothers Band	Please Please Me	MinorSeventhChord	1963
+Little Richard	Forever Changes	PhrygianTetraChord	1967
+Simon & Garfunkel	Never Mind the Bollocks Here's the Sex Pistols	WaraoMinorTriChord	1977
+Al Green	The Doors	Whole-ToneTetramirror	1967
+Ray Charles	The Dark Side of the Moon	Sus4Pentatonic	1973
+Creedence Clearwater Revival	Horses	M3MjPentatonic	1975
+Captain Beefheart 	The Band	Chinese6Pentatonic	1969
+Sly & The Family Stone	Legend	Han-kumoi	1984
+Guns N' Roses	A Love Supreme	In	1965
+Phil Spector	It Takes a Nation 	Yo	1988
+Radiohead	At Fillmore East	Indonesian2Pentatonic	1971
+Billy Joel	Here's Little Richard	Indonesian3Pentatonic	1957
+Paul Simon	Bridge Over Troubled Water	NoName	1970
+Curtis Mayfield	Greatest Hits	AlteredPentatonic	1975
+Curtis Mayfield	The Who Sell Out	Whole-tone	1967
+Neil Young	Meet The Beatles!	BalinesePentachord1	1964
+Prince and the Revolution	The Birth of Soul	BluesV	1991
+AC/DC	Electric Ladyland	BluesPentacluster1	1968
+Otis Redding	Elvis Presley	BluesPentaCluster3	1956
+John Lennon	Songs in the Key of Life	BluesPentaCluster5	1976
+Aretha Franklin	Beggars Banquet	BluesPentaCluster6	1968
+Johnny Cash	Chronicle: The 20 Greatest Hits	BluesVallflats	1976
+Dusty Springfield	Trout Mask Replica	Center-ClusterPentaMirror	1969
+Elton John	Greatest Hits	Chaio1	1970
+Buddy Holly	Appetite for Destruction	ChromaticPentaMirror	1987
+Prince	Achtung Baby	DominantPentatonic	1991
+Hank Williams	Sticky Fingers	Slendro	1971
+Elvis Costello	Back to Mono (1958-1969)	HalfDiminishedplusb8	1991
+Elvis Costello	Hunky Dory	PyramidHexatonic	1971
+The Zombies	Moondance	JapanesePentachord1	1970
+Frank Sinatra	Kid A	Kokin-Joshi	2000
+Cream	Off the Wall	Kung	1979
+James Taylor	[Led Zeppelin IV]	LocrianPentaMirror	1971
+Sam Cooke	The Stranger	LydianPentachord	1977
+The Mamas and the Papas	Graceland	MajorPentachord	1986
+Derek and the Dominos	Superfly	Minor6thAdded	1972
+Kanye West	Physical Graffiti	MinorPentachordChadG	1975
+Etta James	After the Gold Rush	MixolydianPentatonic1	1970
+The Byrds	Star Time	OrientalPentacluster1	1991
+Various Artists	Purple Rain	OrientalRagaGuhamano	1984
+Run D.M.C.	Back in Black	RomanianBacovia1	1980
+Moby Grape	Otis Blue: Otis Redding Sings Soul	SpanishPentacluster1	1965
+Janis Joplin	Led Zeppelin II	MajorPentatonic	1969
+The Wailers	Imagine	MinorPentatonic	1971
+Iggy and The Stooges	The Clash	Pelog	1977
+Talking Heads	Harvest	Iwato	1972
+Television	Axis: Bold as Love	KumoiScale	1967
+Black Sabbath	I Never Loved a Man 	Hirajoshi	1967
+The Notorious B.I.G.	Lady Soul	Sus4	1968
+Pavement	Augmented	Messiaen	1984
+The Replacements	The Wall	BluesDorianHexatonic1	1979
+Dr. Dre	At Folsom Prison	BluesDorianHexatonic2	1968
+The Meters	Dusty in Memphis	BluesMinorallflats	1969
+Blondie	Talking Book	BluesMinorMaj7	1972
+B.B. King	Goodbye Yellow Brick Road	ChromaticHexaMirrorall	1973
+Dr. John	 the Night Tripper	Chromatic	1978
+N.W.A	Sign Peace the Times	Double-PhrygianHexatonic	1987
+Steely Dan	40 Greatest Hits	EskimoHexatonic1	1984
+Jefferson Airplane	Bitches Brew	EskimoHexatonic2	1970
+Crosby	 Nash & Young	GenusSecundum	1969
+Crosby	Alive!	Chromatic3	1975
+Santana	The Freewheelin' Bob Dylan	Hawaiian	1963
+Arcade Fire	This Year's Model	HonchoshiPlagalForm	1978
+The B 52's	There's a Riot Goin' On	Lydian2Hexatonic	1971
+A Tribe Called Quest	Odessey and Oracle	Lydianb3Hexatonic	1968
+Howlin' Wolf	In the Wee Small Hours	LydianHexatonic	1955
+Pretenders	Fresh Cream	MajorBebopHexatonic	1966
+Beastie Boys	Giant Steps	MajorBluesalternate	1959
+Joy Division	Sweet Baby James	MinorHexatonic	1970
+KISS	Modern Sounds in Country and Western Music	PhrygianHexatonic	1962
+T. Rex	Rocket to Russia	Prometheus2	1977
+Linda Ronstadt	Portrait of a Legend 1951-1964	PrometheusNeapolitan2	2003
+Metallica	Aftermath	Ritsu	1966
+Rod Stewart	Loaded	ScottishHexatonicArezzo	1970
+Todd Rundgren	The Bends	TakemitsuTreeLineMod1	1995
+Carpenters	If You Can Believe Your Eyes and Ears	TakemitsuTreeLineMod2	1966
+Aerosmith	Court and Spark	Prometheus	1974
+Funkadelic	Disraeli Gears	PrometheusNeopolitan	1967
+ABBA	Out of Our Heads	Blues	1965
+Willie Nelson	Layla and Other Assorted Love Songs	SixtoneMode1	1970
+Madonna	Late Registration	SixtoneMode2	2005
+The Stooges	At Last!	IonianAugmented	1960
+Peter Gabriel	Sweetheart of the Rodeo	Dorian4	1968
+Buffalo Springfield	Stand!	Mixolydianb9b13	1969
+Quicksilver Messenger Service	The Harder They Come	Lydian9	1972
+The Flying Burrito Brothers	Raising Hell	AltDominantbb7	1986
+Green Day	Moby Grape	Dorianb2	1967
+Lou Reed	Pearl	LydianAug	1971
+John Mayall & The Bluesbreakers	Catch a Fire	Lydianb7	1973
+R.E.M.	Younger Than Yesterday	Mixolydianb13	1967
+Little Walter	Raw Power	LocrianNat9	1973
+The Strokes	Remain in Light	AltDominant	1980
+Nine Inch Nails	Marquee Moon	LocrianNat6	1977
+Cat Stevens	Paranoid	HungarianFolk	1970
+Pearl Jam	Saturday Night Fever	Purvi	1977
+Neil Young & Crazy Horse	The Wild	Todi	1973
+Ike & Tina Turner	Ready to Die	Saba	1994
+New York Dolls	Slanted and Enchanted	SpanishDominant	1992
+Bo Diddley	Greatest Hits	Smyrneiko	1974
+Bobby Blue Bland	Tim	Mixolydianb9	1985
+The Smiths	The Chronic	MajorLocrian	1992
+My Bloody Valentine	Rejuvenation	LydianMinor	1974
+Professor Longhair	Parallel Lines	LeadingWholetone	1978
+Neil Diamond	Live at the Regal	OrientalNo1	1965
+Pixies	A Christmas Gift for You From Phil Spector	OrientalNo2	1963
+Eric B. & Rakim	Gris-Gris	NeopolitanMajor	1968
+Bonnie Raitt	Straight Outta Compton	NeopolitanMinor	1988
+Queen	Aja	Aeolian2	1977
+The Kinks	Surrealistic Pillow	AeolianFlat3b5b6b8b	1967
+Patsy Cline	Deja vu	AeolianFlatb3b5b6	1970
+Jackie Wilson	Houses of the Holy	BhairubaharThaat	1973
+Eminem	Santana	BluesHeptatonic	1969
+Jerry Lee Lewis	Darkness on the Edge of Town	BluesModified	1978
+The Mothers of Invention	Funeral	BluesPhrygian1	2004
+The Grateful Dead	The B 52's / Play Loud	BlueswithLeadingTone	1979
+Ornette Coleman	The Low End Theory	ChromaticDorian	1991
+Jay Z	Moanin' in the Moonlight	ChromaticDorianInverse	1958
+Kraftwerk	Pretenders	ChromaticHeptaMirror	1980
+Whitney Houston	Paul's Boutique	ChromaticHypodorian1	1989
+Janet	Closer	Hypodorian2	1980
+Grateful Dead	Captain Fantastic and the Brown Dirt Cowboy	ChromaticHypodorianInv	1975
+Tracy Chapman	Electric Warrior	ChromaticLydian	1971
+Blood	 Sweat & Tears	The Dock of the Bay	1968
+The Jesus and Mary Chain	OK Computer	ChromaticMixolydian2	1997
+Sleater Kinney	1999	ChromaticMixolydianInv	1982
+Smokey Robinson & The Miracles	The Very Best of Linda Ronstadt	ChromaticPhrygian	2002
+LaBelle	Let's Get It On	ChromaticPhrygianInverse	1973
+Parliament	Imperial Bedroom	Dorianb5	1982
+Janet Jackson	Master of Puppets	EnigmaticAscending1	1986
+Various	My Aim Is True	EnigmaticDescending1	1977
+Mary J. Blige	Exodus	EnigmaticMinor	1977
+Barry White	Live at Leeds	EnigmaticMinoralls	1970
+The Cars	The Notorious Byrd Brothers	EnigmaticMinorallbs	1968
+X	Every Picture Tells a Story	Pelogalternate	1971
+Bob Dylan and the Band	Something/Anything?	GipsyHexatonic1	1972
+MC5	Desire	GypsyHexatonic5	1976
+Leonard Cohen	Close to You	Hindi5flats	1970
+Weezer	Rocks	Houzam	1976
+Dolly Parton	One Nation Under a Groove	HungarianGypsy1	1978
+Jeff Buckley	The Anthology: 1961-1977	Phrygiandim4th	1992
+Lucinda Williams	The Definitive Collection	Phrygiandim4thalternate	2001
+Beck	The Rolling Stones	JazzMinorInverse	1965
+Red Hot Chili Peppers	Natty Dread	Locrian2	1974
+Jane's Addiction	Fleetwood Mac	Locrianbb7	1975
+Lauryn Hill	Red Headed Stranger	LydianAugmented2	1975
+Tom Petty and the Heartbreakers	The Immaculate Collection	MarvaorMarvi	1990
+The O'Jays	The Stooges	MarvaThaat	1969
+Nick Drake	Fresh	MajorBebopHeptatonic	1973
+Randy Newman	So	MinorBebop1	1986
+The Police	Buffalo Springfield Again	MinorBebopHeptatonic	1967
+Eric Clapton	Happy Trails	MixolydianAugmented	1969
+The Cure	From Elvis in Memphis	Mixolydianb5	1969
+Liz Phair	Fun House	NeapolitanMinorMode	1970
+Sonic Youth	The Gilded Palace of Sin	Nohkan1	1969
+Richard & Linda Thompson	Dookie	Nohkan2	1994
+Graham Parker & The Rumour	Transformer	RocknRoll1	1972
+Soundgarden	Blues Breakers 	RocknRoll2	1966
+Jethro Tull	Nuggets	RomanianMajor	1998
+Big Brother & the Holding Company	Murmur	Sabach1	1983
+Tom Waits	The Best of Little Walter	Sabach2	1967
+Black Flag	Is This It	SpanishHeptatonic1	2001
+Moby	Highway to Hell	SpanishHeptatonic2	1979
