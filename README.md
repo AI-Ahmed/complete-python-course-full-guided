@@ -1,0 +1,2 @@
+# completed_python_course
+My directory leads to my folders and files that contain .py projects and code file in which will help the other py beginners to work and interact with python from A-Z.  Thanks to Mr Tim Buchalka for teaching me this course in 2019. It was a good journey. And I'm still taking it as a guide into my work. I've learned a lot from this course besides I predict that this course will qualify me to go deep into my Blockchain Career perfectly without having any naps or gaps.
